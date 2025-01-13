@@ -37,3 +37,6 @@ jobs:
 
       - name: Cetak Tanggal
         run: date
+
+      - name: Run Python
+        run: python3 name.py
